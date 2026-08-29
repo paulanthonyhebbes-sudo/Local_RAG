@@ -1,0 +1,10 @@
+# rag_ui.py dependencies
+# Install with: pip install -r rag_requirements.txt
+# Use a fresh venv with Python 3.11 (same as chat_ui project)
+
+gradio>=4.0
+openai>=1.0
+chromadb>=0.5
+ollama>=0.3
+pypdf>=4.0
+python-docx>=1.1
