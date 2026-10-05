@@ -16,14 +16,6 @@ Supported file types: `.txt`, `.md`, `.pdf`, `.docx`
 
 ---
 
-## Screenshots
-
-![Index tab: indexing a folder of documents](docs/index-tab.png)
-
-![Ask tab: an answer with its retrieved sources](docs/ask-tab.png)
-
----
-
 ## How it works
 
 This is a RAG (retrieval-augmented generation) pipeline. Each question goes through four steps:
