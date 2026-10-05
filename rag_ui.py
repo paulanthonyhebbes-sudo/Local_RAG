@@ -369,7 +369,7 @@ with gr.Blocks(title="Local RAG — Document Q&A") as demo:
             with gr.Row():
                 folder_box = gr.Textbox(
                     label="Folder path",
-                    placeholder=r"e.g.  C:\Users\phatt\Documents\HNC Notes",
+                    placeholder=r"e.g.  C:\Users\{path}\Documents\HNC Notes",
                     scale=4,
                 )
                 with gr.Column(scale=1):
